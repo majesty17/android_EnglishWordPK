@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">单词PK王</string>
+    <string name="title_section_profile">个人信息</string>
+    <string name="title_section_wordtest">词汇量测试</string>
+    <string name="title_section_pkroom">单词pk</string>
+    <string name="title_section_chatroom">聊天室</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_wordtest">WordtestActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
